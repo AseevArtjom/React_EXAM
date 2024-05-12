@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flex{
+    display: flex;
+}
+.Error_label{
+    font-size: 70px;
+    margin: auto;
+    margin-top: 300px;
+}
+.error_container
+{
+    margin: auto;
+}
+.error_container img{
+    height: 120px;
+    width: 120px;
+    margin-top: 290px;
+    margin-right: 40px;
+}
